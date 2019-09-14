@@ -1,2 +1,2 @@
 # Amharic-dependency-parser
-Amharic treebank based Biniyam et al.
+Amharic treebank based on UD-AMHARIC TREEBANK by Biniyam et al.
